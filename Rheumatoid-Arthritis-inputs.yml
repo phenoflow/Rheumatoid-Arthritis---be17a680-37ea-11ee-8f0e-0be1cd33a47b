@@ -1,0 +1,870 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ulcerative-rheumatoid-arthritis---primary.py
+inputModule3:
+  class: File
+  path: python/rheumatoid-arthritis-psoriasis---primary.py
+inputModule4:
+  class: File
+  path: python/arthritis---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-arthritis-activity---primary.py
+inputModule6:
+  class: File
+  path: python/rheumatoid-arthritis-gouty---primary.py
+inputModule7:
+  class: File
+  path: python/rheumatoid-arthritis---primary.py
+inputModule8:
+  class: File
+  path: python/rheumatoid-arthritis-liver---primary.py
+inputModule9:
+  class: File
+  path: python/rheumatoid-arthritis-reiter---primary.py
+inputModule10:
+  class: File
+  path: python/rheumatoid-arthritis-hypopharynx---primary.py
+inputModule11:
+  class: File
+  path: python/rheumatoid-arthritis-lipstick---primary.py
+inputModule12:
+  class: File
+  path: python/rheumatoid-arthritis-adenocarcinoma---primary.py
+inputModule13:
+  class: File
+  path: python/rheumatoid-arthritis-chondrocalcinosisdicalcium---primary.py
+inputModule14:
+  class: File
+  path: python/rheumatoid-arthritis-frenulum---primary.py
+inputModule15:
+  class: File
+  path: python/temporal-rheumatoid-arthritis---primary.py
+inputModule16:
+  class: File
+  path: python/rheumatoid-arthritis-overlap---primary.py
+inputModule17:
+  class: File
+  path: python/rheumatoid-arthritis-tongue---primary.py
+inputModule18:
+  class: File
+  path: python/rheumatoid-arthritis-third---primary.py
+inputModule19:
+  class: File
+  path: python/rheumatoid-arthritis-dorsal---primary.py
+inputModule20:
+  class: File
+  path: python/lateral-rheumatoid-arthritis---primary.py
+inputModule21:
+  class: File
+  path: python/ventral-rheumatoid-arthritis---primary.py
+inputModule22:
+  class: File
+  path: python/rheumatoid-arthritis-anterior---primary.py
+inputModule23:
+  class: File
+  path: python/junctional-rheumatoid-arthritis---primary.py
+inputModule24:
+  class: File
+  path: python/tonsillar-rheumatoid-arthritis---primary.py
+inputModule25:
+  class: File
+  path: python/rheumatoid-arthritis-majora---primary.py
+inputModule26:
+  class: File
+  path: python/parotid-rheumatoid-arthritis---primary.py
+inputModule27:
+  class: File
+  path: python/submandibular-rheumatoid-arthritis---primary.py
+inputModule28:
+  class: File
+  path: python/rheumatoid-arthritis-gland---primary.py
+inputModule29:
+  class: File
+  path: python/rheumatoid-arthritis-neoplasm---primary.py
+inputModule30:
+  class: File
+  path: python/upper-rheumatoid-arthritis---primary.py
+inputModule31:
+  class: File
+  path: python/lower-rheumatoid-arthritis---primary.py
+inputModule32:
+  class: File
+  path: python/other-rheumatoid-arthritis---primary.py
+inputModule33:
+  class: File
+  path: python/rheumatoid-arthritis-floor---primary.py
+inputModule34:
+  class: File
+  path: python/rheumatoid-arthritis-portion---primary.py
+inputModule35:
+  class: File
+  path: python/rheumatoid-arthritis-mouth---primary.py
+inputModule36:
+  class: File
+  path: python/rheumatoid-arthritis-cheek---primary.py
+inputModule37:
+  class: File
+  path: python/buccal-rheumatoid-arthritis---primary.py
+inputModule38:
+  class: File
+  path: python/rheumatoid-arthritis-sulcu---primary.py
+inputModule39:
+  class: File
+  path: python/rheumatoid-arthritis-palate---primary.py
+inputModule40:
+  class: File
+  path: python/rheumatoid-arthritis-kaposis---primary.py
+inputModule41:
+  class: File
+  path: python/rheumatoid-arthritis-oropharynx---primary.py
+inputModule42:
+  class: File
+  path: python/faucial-rheumatoid-arthritis---primary.py
+inputModule43:
+  class: File
+  path: python/pillar-rheumatoid-arthritis---primary.py
+inputModule44:
+  class: File
+  path: python/pharyngeal-rheumatoid-arthritis---primary.py
+inputModule45:
+  class: File
+  path: python/rheumatoid-arthritis-epiglotti---primary.py
+inputModule46:
+  class: File
+  path: python/rheumatoid-arthritis-pharynx---primary.py
+inputModule47:
+  class: File
+  path: python/laryngeal-rheumatoid-arthritis---primary.py
+inputModule48:
+  class: File
+  path: python/rheumatoid-arthritis-septum---primary.py
+inputModule49:
+  class: File
+  path: python/regional-rheumatoid-arthritis---primary.py
+inputModule50:
+  class: File
+  path: python/rheumatoid-arthritis-sinus---primary.py
+inputModule51:
+  class: File
+  path: python/hypopharyngeal-rheumatoid-arthritis---primary.py
+inputModule52:
+  class: File
+  path: python/rheumatoid-arthritis-retroperitoneum---primary.py
+inputModule53:
+  class: File
+  path: python/rheumatoid-arthritis-oesophagu---primary.py
+inputModule54:
+  class: File
+  path: python/endocervical-rheumatoid-arthritis---primary.py
+inputModule55:
+  class: File
+  path: python/thoracic-rheumatoid-arthritis---primary.py
+inputModule56:
+  class: File
+  path: python/abdominal-rheumatoid-arthritis---primary.py
+inputModule57:
+  class: File
+  path: python/rheumatoid-arthritis-cancer---primary.py
+inputModule58:
+  class: File
+  path: python/rheumatoid-arthritis-stomach---primary.py
+inputModule59:
+  class: File
+  path: python/rheumatoid-arthritis-cardia---primary.py
+inputModule60:
+  class: File
+  path: python/rheumatoid-arthritis-orifice---primary.py
+inputModule61:
+  class: File
+  path: python/rheumatoid-arthritis-pylorus---primary.py
+inputModule62:
+  class: File
+  path: python/pyloric-rheumatoid-arthritis---primary.py
+inputModule63:
+  class: File
+  path: python/rheumatoid-arthritis-antrum---primary.py
+inputModule64:
+  class: File
+  path: python/rheumatoid-arthritis-fundu---primary.py
+inputModule65:
+  class: File
+  path: python/rheumatoid-arthritis-curve---primary.py
+inputModule66:
+  class: File
+  path: python/great-rheumatoid-arthritis---primary.py
+inputModule67:
+  class: File
+  path: python/rheumatoid-arthritis-posterior---primary.py
+inputModule68:
+  class: File
+  path: python/intestinal-rheumatoid-arthritis---primary.py
+inputModule69:
+  class: File
+  path: python/rheumatoid-arthritis-duodenum---primary.py
+inputModule70:
+  class: File
+  path: python/rheumatoid-arthritis-jejunum---primary.py
+inputModule71:
+  class: File
+  path: python/rheumatoid-arthritis-ileum---primary.py
+inputModule72:
+  class: File
+  path: python/rheumatoid-arthritis-colon---primary.py
+inputModule73:
+  class: File
+  path: python/rheumatoid-arthritis-flexure---primary.py
+inputModule74:
+  class: File
+  path: python/rectosigmoid-rheumatoid-arthritis---primary.py
+inputModule75:
+  class: File
+  path: python/rheumatoid-arthritis-caecum---primary.py
+inputModule76:
+  class: File
+  path: python/rheumatoid-arthritis-rectum---primary.py
+inputModule77:
+  class: File
+  path: python/canal-rheumatoid-arthritis---primary.py
+inputModule78:
+  class: File
+  path: python/rheumatoid-arthritis-specified---primary.py
+inputModule79:
+  class: File
+  path: python/hepatic-rheumatoid-arthritis---primary.py
+inputModule80:
+  class: File
+  path: python/primary-rheumatoid-arthritis---primary.py
+inputModule81:
+  class: File
+  path: python/rheumatoid-arthritis-biliary---primary.py
+inputModule82:
+  class: File
+  path: python/rheumatoid-arthritis-gallbladder---primary.py
+inputModule83:
+  class: File
+  path: python/common-rheumatoid-arthritis---primary.py
+inputModule84:
+  class: File
+  path: python/pancreatic-rheumatoid-arthritis---primary.py
+inputModule85:
+  class: File
+  path: python/rheumatoid-arthritis-tissue---primary.py
+inputModule86:
+  class: File
+  path: python/rheumatoid-arthritis-mesothelioma---primary.py
+inputModule87:
+  class: File
+  path: python/parietal-rheumatoid-arthritis---primary.py
+inputModule88:
+  class: File
+  path: python/intrapelvic-rheumatoid-arthritis---primary.py
+inputModule89:
+  class: File
+  path: python/rheumatoid-arthritis-reticuloendotheliosis---primary.py
+inputModule90:
+  class: File
+  path: python/mesenteric-rheumatoid-arthritis---primary.py
+inputModule91:
+  class: File
+  path: python/rheumatoid-arthritis-bowel---primary.py
+inputModule92:
+  class: File
+  path: python/rheumatoid-arthritis-spleen---primary.py
+inputModule93:
+  class: File
+  path: python/systemic-rheumatoid-arthritis---primary.py
+inputModule94:
+  class: File
+  path: python/rheumatoid-arthritis-accessory---primary.py
+inputModule95:
+  class: File
+  path: python/rheumatoid-arthritis-nasal---primary.py
+inputModule96:
+  class: File
+  path: python/rheumatoid-arthritis-cartilage---primary.py
+inputModule97:
+  class: File
+  path: python/rheumatoid-arthritis-bcell---primary.py
+inputModule98:
+  class: File
+  path: python/tympanic-rheumatoid-arthritis---primary.py
+inputModule99:
+  class: File
+  path: python/axillary-rheumatoid-arthritis---primary.py
+inputModule100:
+  class: File
+  path: python/ethmoid-rheumatoid-arthritis---primary.py
+inputModule101:
+  class: File
+  path: python/frontal-rheumatoid-arthritis---primary.py
+inputModule102:
+  class: File
+  path: python/rheumatoid-arthritis-heart---primary.py
+inputModule103:
+  class: File
+  path: python/rheumatoid-arthritis-larynx---primary.py
+inputModule104:
+  class: File
+  path: python/thyroid-rheumatoid-arthritis---primary.py
+inputModule105:
+  class: File
+  path: python/rheumatoid-arthritis-trachea---primary.py
+inputModule106:
+  class: File
+  path: python/rheumatoid-arthritis-bronchu---primary.py
+inputModule107:
+  class: File
+  path: python/rheumatoid-arthritis-pancoast's---primary.py
+inputModule108:
+  class: File
+  path: python/rheumatoid-arthritis-middle---primary.py
+inputModule109:
+  class: File
+  path: python/rheumatoid-arthritis-pleura---primary.py
+inputModule110:
+  class: File
+  path: python/mediastinal-rheumatoid-arthritis---primary.py
+inputModule111:
+  class: File
+  path: python/rheumatoid-arthritis-thymu---primary.py
+inputModule112:
+  class: File
+  path: python/rheumatoid-arthritis-pericardium---primary.py
+inputModule113:
+  class: File
+  path: python/rheumatoid-arthritis-respiratory---primary.py
+inputModule114:
+  class: File
+  path: python/articular-rheumatoid-arthritis---primary.py
+inputModule115:
+  class: File
+  path: python/rheumatoid-arthritis-chondroma---primary.py
+inputModule116:
+  class: File
+  path: python/rheumatoid-arthritis-osteoma---primary.py
+inputModule117:
+  class: File
+  path: python/rheumatoid-arthritis-skull---primary.py
+inputModule118:
+  class: File
+  path: python/rheumatoid-arthritis-bones---primary.py
+inputModule119:
+  class: File
+  path: python/occipital-rheumatoid-arthritis---primary.py
+inputModule120:
+  class: File
+  path: python/rheumatoid-arthritis-orbit---primary.py
+inputModule121:
+  class: File
+  path: python/rheumatoid-arthritis-axilla---primary.py
+inputModule122:
+  class: File
+  path: python/rheumatoid-arthritis-column---primary.py
+inputModule123:
+  class: File
+  path: python/vertebral-rheumatoid-arthritis---primary.py
+inputModule124:
+  class: File
+  path: python/rheumatoid-arthritis-clavicle---primary.py
+inputModule125:
+  class: File
+  path: python/rheumatoid-arthritis-sternum---primary.py
+inputModule126:
+  class: File
+  path: python/rheumatoid-arthritis-scapula---primary.py
+inputModule127:
+  class: File
+  path: python/rheumatoid-arthritis-carpal---primary.py
+inputModule128:
+  class: File
+  path: python/rheumatoid-arthritis-phalange---primary.py
+inputModule129:
+  class: File
+  path: python/rheumatoid-arthritis-coccyx---primary.py
+inputModule130:
+  class: File
+  path: python/coccygeal-rheumatoid-arthritis---primary.py
+inputModule131:
+  class: File
+  path: python/sacral-rheumatoid-arthritis---primary.py
+inputModule132:
+  class: File
+  path: python/rheumatoid-arthritis-metatarsal---primary.py
+inputModule133:
+  class: File
+  path: python/rheumatoid-arthritis-sarcoma---primary.py
+inputModule134:
+  class: File
+  path: python/connective-rheumatoid-arthritis---primary.py
+inputModule135:
+  class: File
+  path: python/rheumatoid-arthritis-surface---primary.py
+inputModule136:
+  class: File
+  path: python/eyelid-rheumatoid-arthritis---primary.py
+inputModule137:
+  class: File
+  path: python/rheumatoid-arthritis-shoulder---primary.py
+inputModule138:
+  class: File
+  path: python/rheumatoid-arthritis-forearm---primary.py
+inputModule139:
+  class: File
+  path: python/rheumatoid-arthritis-finger---primary.py
+inputModule140:
+  class: File
+  path: python/rheumatoid-arthritis-thumb---primary.py
+inputModule141:
+  class: File
+  path: python/rheumatoid-arthritis-thigh---primary.py
+inputModule142:
+  class: File
+  path: python/popliteal-rheumatoid-arthritis---primary.py
+inputModule143:
+  class: File
+  path: python/rheumatoid-arthritis-thorax---primary.py
+inputModule144:
+  class: File
+  path: python/rheumatoid-arthritis-abdoman---primary.py
+inputModule145:
+  class: File
+  path: python/rheumatoid-arthritis-spine---primary.py
+inputModule146:
+  class: File
+  path: python/rheumatoid-arthritis-buttock---primary.py
+inputModule147:
+  class: File
+  path: python/rheumatoid-arthritis-perineum---primary.py
+inputModule148:
+  class: File
+  path: python/rheumatoid-arthritis-trunk---primary.py
+inputModule149:
+  class: File
+  path: python/rheumatoid-arthritis-melanoma---primary.py
+inputModule150:
+  class: File
+  path: python/auricular-rheumatoid-arthritis---primary.py
+inputModule151:
+  class: File
+  path: python/rheumatoid-arthritis-auditory---primary.py
+inputModule152:
+  class: File
+  path: python/rheumatoid-arthritis-scalp---primary.py
+inputModule153:
+  class: File
+  path: python/rheumatoid-arthritis-breast---primary.py
+inputModule154:
+  class: File
+  path: python/rheumatoid-arthritis-chest---primary.py
+inputModule155:
+  class: File
+  path: python/rheumatoid-arthritis-scrotum---primary.py
+inputModule156:
+  class: File
+  path: python/rheumatoid-arthritis-ankle---primary.py
+inputModule157:
+  class: File
+  path: python/female-rheumatoid-arthritis---primary.py
+inputModule158:
+  class: File
+  path: python/rheumatoid-arthritis-areola---primary.py
+inputModule159:
+  class: File
+  path: python/rheumatoid-arthritis-nipple---primary.py
+inputModule160:
+  class: File
+  path: python/rheumatoid-arthritis-quadrant---primary.py
+inputModule161:
+  class: File
+  path: python/ectopic-rheumatoid-arthritis---primary.py
+inputModule162:
+  class: File
+  path: python/genitourinary-rheumatoid-arthritis---primary.py
+inputModule163:
+  class: File
+  path: python/rheumatoid-arthritis-uterus---primary.py
+inputModule164:
+  class: File
+  path: python/rheumatoid-arthritis-endocervix---primary.py
+inputModule165:
+  class: File
+  path: python/rheumatoid-arthritis-cervix---primary.py
+inputModule166:
+  class: File
+  path: python/rheumatoid-arthritis-carcinoma---primary.py
+inputModule167:
+  class: File
+  path: python/rheumatoid-arthritis-excluding---primary.py
+inputModule168:
+  class: File
+  path: python/rheumatoid-arthritis-uterine---primary.py
+inputModule169:
+  class: File
+  path: python/rheumatoid-arthritis-endometrium---primary.py
+inputModule170:
+  class: File
+  path: python/rheumatoid-arthritis-isthmu---primary.py
+inputModule171:
+  class: File
+  path: python/rheumatoid-arthritis-adnexa---primary.py
+inputModule172:
+  class: File
+  path: python/rheumatoid-arthritis-ovary---primary.py
+inputModule173:
+  class: File
+  path: python/genital-rheumatoid-arthritis---primary.py
+inputModule174:
+  class: File
+  path: python/rheumatoid-arthritis-vagina---primary.py
+inputModule175:
+  class: File
+  path: python/rheumatoid-arthritis-labia---primary.py
+inputModule176:
+  class: File
+  path: python/rheumatoid-arthritis-vulva---primary.py
+inputModule177:
+  class: File
+  path: python/rheumatoid-arthritis-prostate---primary.py
+inputModule178:
+  class: File
+  path: python/rheumatoid-arthritis-penis---primary.py
+inputModule179:
+  class: File
+  path: python/rheumatoid-arthritis-ureter---primary.py
+inputModule180:
+  class: File
+  path: python/rheumatoid-arthritis-kidney---primary.py
+inputModule181:
+  class: File
+  path: python/adrenal-rheumatoid-arthritis---primary.py
+inputModule182:
+  class: File
+  path: python/rheumatoid-arthritis-hypernephroma---primary.py
+inputModule183:
+  class: File
+  path: python/rheumatoid-arthritis-urethra---primary.py
+inputModule184:
+  class: File
+  path: python/rheumatoid-arthritis-eyeball---primary.py
+inputModule185:
+  class: File
+  path: python/rheumatoid-arthritis-retina---primary.py
+inputModule186:
+  class: File
+  path: python/lacrimal-rheumatoid-arthritis---primary.py
+inputModule187:
+  class: File
+  path: python/rheumatoid-arthritis-conjunctiva---primary.py
+inputModule188:
+  class: File
+  path: python/rheumatoid-arthritis-cornea---primary.py
+inputModule189:
+  class: File
+  path: python/choroid-rheumatoid-arthritis---primary.py
+inputModule190:
+  class: File
+  path: python/rheumatoid-arthritis-sacroiliac---primary.py
+inputModule191:
+  class: File
+  path: python/rheumatoid-arthritis-brain---primary.py
+inputModule192:
+  class: File
+  path: python/rheumatoid-arthritis-tumour---primary.py
+inputModule193:
+  class: File
+  path: python/rheumatoid-arthritis-cerebrum---primary.py
+inputModule194:
+  class: File
+  path: python/rheumatoid-arthritis-cortex---primary.py
+inputModule195:
+  class: File
+  path: python/cerebral-rheumatoid-arthritis---primary.py
+inputModule196:
+  class: File
+  path: python/rheumatoid-arthritis-medulla---primary.py
+inputModule197:
+  class: File
+  path: python/spondylopathy-rheumatoid-arthritis---primary.py
+inputModule198:
+  class: File
+  path: python/rheumatoid-arthritis-corpus---primary.py
+inputModule199:
+  class: File
+  path: python/cranial-rheumatoid-arthritis---primary.py
+inputModule200:
+  class: File
+  path: python/rheumatoid-arthritis-nerve---primary.py
+inputModule201:
+  class: File
+  path: python/rheumatoid-arthritis-meninge---primary.py
+inputModule202:
+  class: File
+  path: python/spinal-rheumatoid-arthritis---primary.py
+inputModule203:
+  class: File
+  path: python/peripheral-rheumatoid-arthritis---primary.py
+inputModule204:
+  class: File
+  path: python/rheumatoid-arthritis-structure---primary.py
+inputModule205:
+  class: File
+  path: python/rheumatoid-arthritis-phaeochromocytoma---primary.py
+inputModule206:
+  class: File
+  path: python/pituitary-rheumatoid-arthritis---primary.py
+inputModule207:
+  class: File
+  path: python/aortic-rheumatoid-arthritis---primary.py
+inputModule208:
+  class: File
+  path: python/rheumatoid-arthritis-neuroblastoma---primary.py
+inputModule209:
+  class: File
+  path: python/rheumatoid-arthritis-involvement---primary.py
+inputModule210:
+  class: File
+  path: python/rheumatoid-arthritis-endocrine---primary.py
+inputModule211:
+  class: File
+  path: python/rheumatoid-arthritis-illdefined---primary.py
+inputModule212:
+  class: File
+  path: python/still-rheumatoid-arthritis---primary.py
+inputModule213:
+  class: File
+  path: python/lymphocytic-rheumatoid-arthritis---primary.py
+inputModule214:
+  class: File
+  path: python/rheumatoid-arthritis-metastas---primary.py
+inputModule215:
+  class: File
+  path: python/mastoid-rheumatoid-arthritis---primary.py
+inputModule216:
+  class: File
+  path: python/internal-rheumatoid-arthritis---primary.py
+inputModule217:
+  class: File
+  path: python/postdysenteric-rheumatoid-arthritis---primary.py
+inputModule218:
+  class: File
+  path: python/tracheobronchial-rheumatoid-arthritis---primary.py
+inputModule219:
+  class: File
+  path: python/rheumatoid-arthritis-inferior---primary.py
+inputModule220:
+  class: File
+  path: python/inguinal-rheumatoid-arthritis---primary.py
+inputModule221:
+  class: File
+  path: python/superficial-rheumatoid-arthritis---primary.py
+inputModule222:
+  class: File
+  path: python/secondary-rheumatoid-arthritis---primary.py
+inputModule223:
+  class: File
+  path: python/rheumatoid-arthritis-malignant---primary.py
+inputModule224:
+  class: File
+  path: python/digestive-rheumatoid-arthritis---primary.py
+inputModule225:
+  class: File
+  path: python/multiple-rheumatoid-arthritis---primary.py
+inputModule226:
+  class: File
+  path: python/unknown-rheumatoid-arthritis---primary.py
+inputModule227:
+  class: File
+  path: python/haematopoietic-rheumatoid-arthritis---primary.py
+inputModule228:
+  class: File
+  path: python/lymphocytichistiocytic-rheumatoid-arthritis---primary.py
+inputModule229:
+  class: File
+  path: python/rheumatoid-arthritis-burkitt---primary.py
+inputModule230:
+  class: File
+  path: python/rheumatoid-arthritis-nonhodgkin---primary.py
+inputModule231:
+  class: File
+  path: python/rheumatoid-arthritis-granuloma---primary.py
+inputModule232:
+  class: File
+  path: python/rheumatoid-arthritis-predominance---primary.py
+inputModule233:
+  class: File
+  path: python/rheumatoid-arthritis-sclerosis---primary.py
+inputModule234:
+  class: File
+  path: python/rheumatoid-arthritis-cellularity---primary.py
+inputModule235:
+  class: File
+  path: python/rheumatoid-arthritis-depletion---primary.py
+inputModule236:
+  class: File
+  path: python/nodular-rheumatoid-arthritis---primary.py
+inputModule237:
+  class: File
+  path: python/rheumatoid-arthritis-fungoide---primary.py
+inputModule238:
+  class: File
+  path: python/rheumatoid-arthritis-sezary---primary.py
+inputModule239:
+  class: File
+  path: python/rheumatoid-arthritis-histiocytosis---primary.py
+inputModule240:
+  class: File
+  path: python/rheumatoid-arthritis-letterersiwe---primary.py
+inputModule241:
+  class: File
+  path: python/noninfective-rheumatoid-arthritis---primary.py
+inputModule242:
+  class: File
+  path: python/rheumatoid-arthritis-diffuse---primary.py
+inputModule243:
+  class: File
+  path: python/rheumatoid-arthritis-mucosa---primary.py
+inputModule244:
+  class: File
+  path: python/rheumatoid-arthritis-maltoma---primary.py
+inputModule245:
+  class: File
+  path: python/follicular-rheumatoid-arthritis---primary.py
+inputModule246:
+  class: File
+  path: python/rheumatoid-arthritis-lymphoma---primary.py
+inputModule247:
+  class: File
+  path: python/rheumatoid-arthritis-tcell---primary.py
+inputModule248:
+  class: File
+  path: python/immunoproliferative-rheumatoid-arthritis---primary.py
+inputModule249:
+  class: File
+  path: python/rheumatoid-arthritis-myeloma---primary.py
+inputModule250:
+  class: File
+  path: python/rheumatoid-arthritis-kahler's---primary.py
+inputModule251:
+  class: File
+  path: python/rheumatoid-arthritis-plasmacytoma---primary.py
+inputModule252:
+  class: File
+  path: python/leukaemic-rheumatoid-arthritis---primary.py
+inputModule253:
+  class: File
+  path: python/rheumatoid-arthritis-subacute---primary.py
+inputModule254:
+  class: File
+  path: python/adult-rheumatoid-arthritis---primary.py
+inputModule255:
+  class: File
+  path: python/granulocytic-rheumatoid-arthritis---primary.py
+inputModule256:
+  class: File
+  path: python/rheumatoid-arthritis-chloroma---primary.py
+inputModule257:
+  class: File
+  path: python/myelomonocytic-rheumatoid-arthritis---primary.py
+inputModule258:
+  class: File
+  path: python/rheumatoid-arthritis-erythraemia---primary.py
+inputModule259:
+  class: File
+  path: python/rheumatoid-arthritis-guglielmo's---primary.py
+inputModule260:
+  class: File
+  path: python/myeloproliferative-rheumatoid-arthritis---primary.py
+inputModule261:
+  class: File
+  path: python/rheumatoid-arthritis-crohn---primary.py
+inputModule262:
+  class: File
+  path: python/rheumatoid-arthritis-colitis---primary.py
+inputModule263:
+  class: File
+  path: python/rheumatoid-arthritis-exacerbation---primary.py
+inputModule264:
+  class: File
+  path: python/similar-rheumatoid-arthritis---primary.py
+inputModule265:
+  class: File
+  path: python/psoriatic-rheumatoid-arthritis---primary.py
+inputModule266:
+  class: File
+  path: python/distal-rheumatoid-arthritis---primary.py
+inputModule267:
+  class: File
+  path: python/large-rheumatoid-arthritis---primary.py
+inputModule268:
+  class: File
+  path: python/rheumatoid-arthritis-acquired---primary.py
+inputModule269:
+  class: File
+  path: python/rheumatoid-arthritis-behcet---primary.py
+inputModule270:
+  class: File
+  path: python/bacterial-rheumatoid-arthritis---primary.py
+inputModule271:
+  class: File
+  path: python/arthropathy-rheumatoid-arthritis---primary.py
+inputModule272:
+  class: File
+  path: python/viral-rheumatoid-arthritis---primary.py
+inputModule273:
+  class: File
+  path: python/rheumatoid-arthritis-mycoses---primary.py
+inputModule274:
+  class: File
+  path: python/reactive-rheumatoid-arthritis---primary.py
+inputModule275:
+  class: File
+  path: python/rheumatoid-arthritis-elbow---primary.py
+inputModule276:
+  class: File
+  path: python/rheumatoid-arthritis-wrist---primary.py
+inputModule277:
+  class: File
+  path: python/rheumatoid-arthritis-crystal---primary.py
+inputModule278:
+  class: File
+  path: python/rheumatoid-arthritis-pseudogout---primary.py
+inputModule279:
+  class: File
+  path: python/rheumatoid-arthritis-pyrophosphate---primary.py
+inputModule280:
+  class: File
+  path: python/rheumatoid-arthritis-inflammatory---primary.py
+inputModule281:
+  class: File
+  path: python/rheumatoid-arthritis-joint---primary.py
+inputModule282:
+  class: File
+  path: python/rheumatoid-arthritis-lesser---primary.py
+inputModule283:
+  class: File
+  path: python/rheumatoid-arthritis-nodule---primary.py
+inputModule284:
+  class: File
+  path: python/rheumatoid-arthritis-felty's---primary.py
+inputModule285:
+  class: File
+  path: python/juvenile-rheumatoid-arthritis---primary.py
+inputModule286:
+  class: File
+  path: python/seropositive-rheumatoid-arthritis---primary.py
+inputModule287:
+  class: File
+  path: python/rheumatoid-arthritis-caplan's---primary.py
+inputModule288:
+  class: File
+  path: python/rheumatoid-arthritis-associated---primary.py
+inputModule289:
+  class: File
+  path: python/rheumatoid-arthritis-index---primary.py
+inputModule290:
+  class: File
+  path: python/output-cases.py
